@@ -55,3 +55,21 @@ ul{
     margin-left: 0;
     padding: 20px;
 }
+
+/* table style*/
+
+table{
+    border-collapse: collapse;
+}
+
+#color_h{
+    background-color: #20a9e5;
+}
+
+.color_r{
+    background-color: #b1e5f2;
+}
+
+.testo_t{
+    width: 50%;
+}
