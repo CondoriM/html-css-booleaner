@@ -2,6 +2,9 @@ body{
     margin: 0;
     padding: 0;
 }
+
+/* header style*/
+
 header{
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
@@ -11,6 +14,44 @@ header{
 }
 
 .logo{
-    width: 250px;
-    padding:50px 0px 0px 10px;
+    width: 200px;
+    padding:70px 0px 0px 10px;
+}
+
+/* title style*/
+
+main{
+    margin: 10px;
+}
+
+#title{
+    width: 75%;
+}
+
+.autore{
+    color: #20a9e5;
+}
+
+.trasparenza{
+    color: rgba(0, 0, 0, 0.50);
+}
+
+/* photo style*/
+
+.info_photo{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+/* contenuto main*/
+
+.evidenziato{
+    background-color: yellow;
+}
+
+/* lista puntata*/
+
+ul{
+    margin-left: 0;
+    padding: 20px;
 }
